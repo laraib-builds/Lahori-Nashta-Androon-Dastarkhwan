@@ -1,0 +1,8 @@
+{
+  "name": "Lahori Nashta: Androon Dastarkhwan",
+  "description": "An authentic Androon Lahore morning cooking, chai-making, and comic-book dastarkhwan game for young chefs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
